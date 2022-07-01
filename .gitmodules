@@ -1,3 +1,3 @@
 [submodule "ls"]
 	path = ./src/ls/
-	url = git@github.com:RustyUtils/RustyLs.git
+	url = git@github.com:RustyUtils/ls.git
